@@ -1,1 +1,1 @@
-# CaseStuy_CS
+# CaseStudy_CS

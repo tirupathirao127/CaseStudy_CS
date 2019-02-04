@@ -18,7 +18,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 public class GitV3_Authentication extends Baseclass_API {
 	
-	@Test(priority=1)
+	@Test(priority=1, enabled=false)
 	public void getCurrentUserValidCredentials() throws JsonParseException, JsonMappingException, IOException {
 		Response response = null;
 		ReadTestData data = new ReadTestData();
